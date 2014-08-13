@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: So Simple Theme
+title: Jesse Stuart
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: 
 logo: site-logo.png
 search: true
-url: http://mmistakes.github.io/so-simple-theme
+url: 
 
 
 # Jekyll configuration
@@ -32,22 +32,17 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Michael Rose
-  avatar: michael-rose-photo.jpg
-  email: michael@mademistakes.com
-  disqus-shortname: sosimpletheme
-  twitter: mmistakes
-  facebook: michaelrose
-  github: mmistakes
-  stackexchange:
-  linkedin:
-  instagram: mmistakes
-  flickr:
-  tumblr: mademistakes
+  name: Jesse Stuart
+  avatar: bio-photo.jpg
+  email: jdstuart@icloud.com
+  # twitter: jesse_stuart
+  # facebook: jesse.d.stuart
+  github: jessedstuart
+  linkedin: jessedstuart
+  # instagram: jaystu
   google:
-    plus: MichaelRoseDesign
-    analytics: UA-2011187-2
-    verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
-    ad-client: ca-pub-7328585512091257
-    ad-slot: 7855747535
-  bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+    analytics: UA-53770919-1
+    # verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+    # ad-client: ca-pub-7328585512091257
+    # ad-slot: 7855747535
+  # bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
