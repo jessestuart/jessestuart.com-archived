@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: Jesse Stuart
 locale: en_US
-description: Describe your website here.
+description:
 logo: site-logo.png
-search: true
-url: 
+search: false
+url:
 
 
 # Jekyll configuration
@@ -32,9 +32,17 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Jesse Stuart
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: jdstuart@icloud.com
+  twitter: jesse_stuart
+  # facebook: jesse.d.stuart
+  github: jessestuart
+  linkedin: jessedstuart
+  # instagram: jaystu
+  google:
+    analytics: UA-53770919-1
+  email: hi@jessestuart.com
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -49,5 +57,5 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:

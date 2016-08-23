@@ -1,16 +1,24 @@
 # Site navigation links
+- title: Home
+  url: /
 
 - title: About
   url: /about/
+  
+- title: Publications
+  url: /publications
+  
+- title: Resume
+  url: /images/jesse_stuart-resume(8.13.14).pdf
 
-- title: Articles
-  url: /articles/
-
-- title: Blog
-  url: /blog/
-
-- title: Theme Setup
-  url: /theme-setup/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
+# - title: Articles
+#   url: /articles/
+#
+# - title: Blog
+#   url: /blog/
+#
+# - title: Theme Setup
+#   url: /theme-setup/
+#
+# - title: Made Mistakes
+#   url: http://mademistakes.com

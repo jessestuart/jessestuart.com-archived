@@ -1,26 +1,18 @@
 ---
 layout: page
-title: About the Jekyll Theme
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+title: Jesse Stuart
+excerpt: "Software engineer experienced in natural language processing, machine learning, and full-stack web development"
 modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+
 ---
+<div id="portrait-container">
+	<center>
+	<img src="../images/bio-photo.jpg" alt="A portrait of the artist." style="width: 50%; height: 50%; border-radius: 40px">
+	<div class="about-jaystu" style="margin-top:15px; width: 60%;">
+		<p>Hey there.</p>
+		<p>I'm a software engineer experienced in natural language processing, machine learning, and full-stack web development.</p>
+		<p>Want to chat? <a href='mailto:jdstuart@icloud.com?subject=hey there'>Hit me up.</a></p>
+	</div>
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
-
-## So Simple Theme is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+	</center>
+</div>
