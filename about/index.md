@@ -3,7 +3,6 @@ layout: page
 title: Jesse Stuart
 excerpt: "Software engineer experienced in natural language processing, machine learning, and full-stack web development"
 modified: 2014-08-08T19:44:38.564948-04:00
-
 ---
 
 <div id="portrait-container">
@@ -14,6 +13,6 @@ modified: 2014-08-08T19:44:38.564948-04:00
 		<p>I'm a software engineer experienced in natural language processing, machine learning, and full-stack web development.</p>
 		<p>Want to chat? <a href='mailto:jdstuart@icloud.com?subject=hey there'>Hit me up.</a></p>
 	</div>
-	
-	</center>	
+
+	</center>
 </div>
