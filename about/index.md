@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Jesse Stuart
 excerpt: "Software engineer experienced in natural language processing, machine learning, and full-stack web development"
 modified: 2014-08-08T19:44:38.564948-04:00
 ---
