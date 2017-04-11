@@ -2,47 +2,49 @@
 
 title: Jesse Stuart
 locale: en_US
-description: 
+description:
 logo: site-logo.png
 search: false
-url: 
-
+url:
 
 # Jekyll configuration
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
 gems:
   - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
 
 kramdown:
+  input: GFM
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
-
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
 
 # Site owner
 owner:
   name: Jesse Stuart
   avatar: bio-photo.jpg
   email: jdstuart@icloud.com
-  # twitter: jesse_stuart
-  # facebook: jesse.d.stuart
   github: jessestuart
   linkedin: jessedstuart
-  # instagram: jaystu
+  twitter: jesse_stuart
+  instagram: jaystu
   google:
     analytics: UA-53770919-1
     # verify: UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
     # ad-client: ca-pub-7328585512091257
     # ad-slot: 7855747535
-  # bing-verify: D81F4C18A6CB3018F64D7C827D953DFD
+  disqus-shortname:
